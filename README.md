@@ -30,7 +30,7 @@ The dataset contains attributes of apps on the Google Play Store, including but 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/google-play-store-data-analysis.git
+   git clone https://github.com/shreyash4Z/Google-Playstore-Data-Analysis
 2. Navigate to the project directory:
    ```bash
    cd google-play-store-data-analysis
